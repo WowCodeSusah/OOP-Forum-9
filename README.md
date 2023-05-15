@@ -24,3 +24,4 @@ Code
 ### 2 h
 The suitable changes needed to be able to do said calculations are a new variable to check the time of said sales and a method that can calculate the sales based on the time of each month.
 ### 2 i
+The only instance of polymorphism is that of the constructor for Salesperson class.
