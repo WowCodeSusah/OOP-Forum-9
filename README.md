@@ -12,7 +12,7 @@ The accessor method is required by the salesperson class due to the variables be
 ### 2 c i
 Code
 ### 2 c ii
-
+There is no getId to gain the id that the sales needs as an identifier, other than that there are no setter methods to change the values in sale.
 ### 2 d 
 102 2 2550.4 0.0
 ### 2 e
